@@ -173,6 +173,7 @@ From the `client` directory:
 ```bash
 npm run dev
 ```
+Open the local Vite URL shown in your terminal.
 
 ## 🖥️ Application Screenshots
 
@@ -200,7 +201,7 @@ npm run dev
 ### 8. Recent Monitors
 ![Recent Monitors](screenshots/08-recent-monitors.png)
 
-Open the local Vite URL shown in your terminal.
+
 
 ## 📊 Performance Analytics
 

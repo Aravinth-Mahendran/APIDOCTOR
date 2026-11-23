@@ -174,6 +174,32 @@ From the `client` directory:
 npm run dev
 ```
 
+## 🖥️ Application Screenshots
+
+### 1. Dashboard Overview
+![APIDOCTOR Dashboard](screenshots/01-dashboard-overview.png)
+
+### 2. Performance Intelligence
+![Performance Intelligence](screenshots/02-performance-intelligence.png)
+
+### 3. Latency Recommendations
+![Latency Recommendations](screenshots/03-latency-recommendations.png)
+
+### 4. Recommendation Details
+![Recommendation Details](screenshots/04-latency-recommendation-details.png)
+
+### 5. API Response Time and Incidents
+![API Response Time](screenshots/05-api-response-time-and-incidents.png)
+
+### 6. Availability and Health Analytics
+![Availability Analytics](screenshots/06-availability-and-health-analytics.png)
+
+### 7. Performance Trend
+![Performance Trend](screenshots/07-performance-trend.png)
+
+### 8. Recent Monitors
+![Recent Monitors](screenshots/08-recent-monitors.png)
+
 Open the local Vite URL shown in your terminal.
 
 ## 📊 Performance Analytics
